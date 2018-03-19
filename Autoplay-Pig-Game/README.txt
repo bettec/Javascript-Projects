@@ -8,3 +8,5 @@ RULES
 #5 The first player to reach 100 points on GLOBAL score wins the game
 
 I added an auto play feature so the 2 players can play with each other on their own.
+
+![Alt text](/image.png?raw=true "The Pig Game")
