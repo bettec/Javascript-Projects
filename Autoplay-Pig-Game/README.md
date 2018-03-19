@@ -6,7 +6,7 @@ colors: light yellow
 
 ---
 ## THE PIG GAME
-**RULES
+** RULES
 1. The game has 2 players, playing in rounds
 2. In each turn, a player rolls 2 dices as many times as he whishes. Each result get added to his ROUND score
 3. BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
