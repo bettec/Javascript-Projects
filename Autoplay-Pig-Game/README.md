@@ -2,7 +2,6 @@
 title: THE AUTO PLAY PIG GAME
 description: A Pig Game that Plays On Its Own
 author: Bette Chen
-tags: 
 colors: light yellow
 
 ---
@@ -16,4 +15,4 @@ colors: light yellow
 
 I added an auto play feature so the 2 players can play with each other on their own.
 
-![The Pig Game](/image.jpg?raw=true "The Pig Game")
+![The Pig Game](https://github.com/bettec/Javascript-Projects/blob/master/Autoplay-Pig-Game/image.jpg?raw=true "The Pig Game")
