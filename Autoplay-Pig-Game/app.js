@@ -11,7 +11,6 @@ additional rules
 - allow user to set winning score
 - 2nd dice in the game
 - autoplay
-
 */
 var scores, roundScore, activePlayer, dice1, dice2, gamePlaying, winningScore;
 
